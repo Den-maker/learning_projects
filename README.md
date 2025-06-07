@@ -9,9 +9,9 @@
 
 ## Структура
 
-- /project1 — описание первого проекта  
-- /project2 — описание второго проекта  
-- и т.д.
+## ✨ 10_creating_menu_hover_effects
+Simple hover animation: a white bar slides above the menu item on hover, built with `::before`, `transition`, and `transform`.
+
 
 ---
 
