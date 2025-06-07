@@ -13,6 +13,8 @@
 Simple hover animation: a white bar slides above the menu item on hover, built with `::before`, `transition`, and `transform`.
 
 
+## ✨ 11_anothe_creating_menu_hover_effects
+Simple hover animation: a white bar slides above the menu item on hover, built with `::before`, `transition`, and `transform`.
 ---
 
 Спасибо за внимание!
